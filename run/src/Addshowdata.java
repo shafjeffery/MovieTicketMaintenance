@@ -201,7 +201,7 @@ public class Addshowdata extends JFrame {
 		tPanel.add(txsearch);
 
 		btnclear = new JButton();
-		btnclear.setFont(new Font("Tahoma", Font.BOLD, 16))
+		btnclear.setFont(new java.awt.Font("Tahoma", 1, 16));
 		btnclear.setMargin(new Insets(0, 0, 0, 0));
 		btnclear.setBounds(470, 380, 25, 25);
 		btnclear.setBorder(hh.borderf);
